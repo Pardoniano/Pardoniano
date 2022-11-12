@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hi, i'm Paulo Emílio, and I work leading the Quality department at Teceo (SaaS - B2B) as QA analyst. Running automated tests (API and Cypress), querying and manipulating data with SQL, acceptance and exit criteria, test creation and execution, using BDD and TDD as primary writing language. Besides several Quality Assurance oriented activities. I also have experience in higher education, having worked as an academic analyst, running the operational for higher and post-graduate courses of one of the largest education groups in Brazil (yduqs).<br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pauloemilioeng/) 
 
@@ -16,6 +15,5 @@ Hi, i'm Paulo Emílio, and I work leading the Quality department at Teceo (SaaS 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pardoniano&icon=2&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=Pardoniano&icon=2&color=6)](https://visitcount.itsvg.in)
